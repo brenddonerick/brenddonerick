@@ -1,4 +1,4 @@
-### Olá, eu sou Brenddon Érick
+### Olá, eu sou Brenddon Andrade
 
 - 🎓 Estudante de física na UFF (Universidade Federal Fluminence);
 - Atualmente estou aprendendo Full Stack Dev;
