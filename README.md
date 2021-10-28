@@ -1,9 +1,9 @@
 ### Olá, eu sou Brenddon Andrade
 
 - 🎓 Estudante de física na UFF (Universidade Federal Fluminence);
-- Atualmente estou aprendendo Full Stack Dev;
+- Aprendendo Full Stack Dev;
+- Trabalhos Freelance;
 - 👯 Pretendo colaborar com Web Games (grupo de pesquisa);
-- 🤔 Estou procurando ajuda com o Trabalho Freelance;
 
  <div>
   <a href="https://github.com/brenddonerick">
