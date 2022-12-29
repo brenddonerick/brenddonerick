@@ -1,9 +1,7 @@
 ### Olá, eu sou Brenddon Andrade
 
-- 🎓 Estudante de Física na UFF (Universidade Federal Fluminence) e Ciência da Computação na UNICID;
-- Web Developer e UI / UX Designer;
-- Trabalhos Freelance;
-- 👯 Pretendo colaborar com Web Games (grupo de pesquisa);
+- 🎓 Estudante de Física pela UFF (Universidade Federal Fluminence);
+- ⚛️ Faço parte do grupo de pesquisa do INPE como estudante de Iniciação Científica, no qual pesquiso sobre Redes Complexas;
 
  <div>
   <a href="https://github.com/brenddonerick">
