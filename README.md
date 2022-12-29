@@ -1,7 +1,8 @@
-### Olá, eu sou Brenddon Andrade
+## Olá! Me chamo Brendodn Andrade 🧑‍💻
 
-- 🎓 Estudante de Física pela UFF (Universidade Federal Fluminence);
+- 🎓 Sou um estudante de Física pela UFF (Universidade Federal Fluminence);
 - ⚛️ Faço parte do grupo de pesquisa do INPE como estudante de Iniciação Científica, no qual pesquiso sobre Redes Complexas;
+
 
  <div>
   <a href="https://github.com/brenddonerick">
@@ -19,7 +20,6 @@
   <img align="center" alt="Seven-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">-->
 </div>
   
-##
   
   <div> 
   <a href="https://instagram.com/brenddonoliveira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
@@ -29,5 +29,6 @@
   
 </div>
 
+![Snake animation](https://github.com/brenddonandrade/brenddonandrade/blob/output/github-contribution-grid-snake.svg)
   
 
