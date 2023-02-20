@@ -1,90 +1,110 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Brenddon E. A. Oliveira</title>
-
-    <link rel="stylesheet" href="./css/style.css">
-</head>
-<body>
-    <header>
-        <nav>
-            <ul>
-                <li>Home</li>
-                <li>Resume</li>
-                <li>Publications</li>
-                <li>Resources</li>
-            </ul>
-        </nav>
-
-        <h1>Brenddon E. A. Oliveira</h1>
-
     
-    </header>
 
-    <!-- Home --------------------------------------------------------- -->
-    <section class="main" id="main">
-        <div>
-            <div class="img-perfil">
-                <img src="" alt="">
+
+    <!-- Fontes -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&family=Ubuntu:wght@400;700&display=swap" rel="stylesheet">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&family=Inter&family=Roboto&family=Ubuntu:wght@400;700&display=swap" rel="stylesheet">
+    
+
+    <!-- font awesome -->
+    <script src="https://kit.fontawesome.com/a19e8ee270.js" crossorigin="anonymous"></script>
+
+    <!-- Favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="./img/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="./img/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="./img/favicon/favicon-16x16.png">
+    <link rel="manifest" href="./img/favicon/site.webmanifest">
+
+    <!-- Estilo -->
+    <link rel="stylesheet" href="./css/style.css">
+    
+    <title>Brenddon Andrade | Portfolio</title>
+</head>
+<body id="#home">
+    <!-- Animation----------------------------------------------------------- -->
+    <canvas id="canvas1"></canvas>
+
+
+    <!-- Header ----------------------------------------------------------- -->
+    <section class="header-bg" id="header">
+        <div class="container">
+            <header class="header text-color-c6">
+                <nav class="nav-bar">
+                    <ul class="menu font-1-l">
+                        <li><a href="./index.html">Home</a></li>
+                        <li><a href="./iniciacao-cientifica.html">Iniciação Científioca</a></li>
+                        <li><a href="./publicacoes.html">Publicações</a></li>
+                        <li><a href="./projetos.html">Projetos</a></li>
+                        <li><a href="./notas.html">Notas</a></li>
+                        <li><a href="./contato.html">Contato</a></li>
+                    </ul>
+                </nav>
+            </header>
+        </div>
+    </section>
+
+
+    <!-- Apresaentacao ----------------------------------------------------------- -->
+    
+    <section class="apresentacao-bg" id="#apresentacao">
+        <div class="apresentacao container">
+        <div class="img-perfil"><img src="./img/perfil-portifolio.png" alt="Foto pessoal do autor"></div>
+            <div class="apresentacao-content">
+                <h1 class="font-1-xl text-color-c6 title-1">Hello! Me chamo Brenddon Andrade</h1>
+                <p class="font-2-l text-color-c5">Sou um estudante de Fisica com Ênfase em Física Computacional da <a href="https://www.uff.br/" target="_blank">UFF</a> (Universidade Federal Fluminense) e participo do grupo de pesquisa de Redes Complexas no <a href="https://www.gov.br/inpe/pt-br" target="_blank">INPE</a> (Instituto Nacional de Pesquisas Espaciais.</p>
+                <p class="font-2-l text-color-c5">Tenho interesses em Cosmologia, IoT e outras áreas de computação aplicada. Esses impulso, bem como o desejo por aprender física é uma conseguência da curiosidade de tentar entender a mecânica do universo. Na página dos meus <a href="./projetos.html">projetos</a> terá acesso a algumas das minhas pesquisas e projetos feito em áreas específicas.</p>
             </div>
-            <h1>Brenddon E. A. Oliveira</h1>
-            <a href="mailto:brenddonandrade@gmail.com">brenddonandrade@gmail.com</a>
         </div>
+    </section>
 
-        <div>
-            <h2>Main interests</h2>
+
+    <section class="trajetoria container">
+        <div class="trajetoria-content">
+            <h1 class="font-1-xl text-color-c6 title-1">Trajetória</h1>
+            <p class="font-2-l text-color-c5">Em 2019 ingressei no curso de Bacharel em Física pela Universidade Federal Fluminense. Nesta instituição tive acesso a excelentes profissionais os quais me inspiro como pesquisador. Também foi graças a graduação que tive o fui indicado como aluno para a bolsa PIBIC do INPE para estudar Redes Copmplexas.</p>
+            <p class="font-2-l text-color-c5">Em 2022 iniciei e ainda atuo em pesquisas sobre Redes Complexas, com o objetivo de transformar arquivos shapefiles fornceciddos por ferramentas de geociência em (geo)grafos.</p>
+            <p class="font-2-l text-color-c5">Em 2023 participei da 6ª edição da <a href="https://mesonpi.cat.cbpf.br/_eafexp2023/" target="_blank">EAFExp</a> (Escola Avançada de Física Experimental) do CBPF (Centro Brasileiro de Pesquisas Físicas), onde eu estudei IoT (intenet of things).</p>
         </div>
+    </section>
 
-        <footer>
-            <nav>
-                <ul>
-                    <li>Github</li>
-                    <li>Orcid</li>
-                    <li>Twitter</li>
-                    <li>ReseachGate</li>
-                    <li>Linkedn</li>
-                    <li>Email</li>
-                </ul>
-            </nav>
+    <section class="almejos container">
+        <div class="almejos-content">
+            <h1 class="font-1-xl text-color-c6 title-1">Almejos</h1>
+            <p class="font-2-l text-color-c5">O futuro ainda está muito incerto. No moemnto, desejo fazer pós-graduação em Cosmologia ou IoT no CBPF. Uma outra opção seria fazer algo na área de Ciência da Computação no <a href="https://www.gov.br/lncc/pt-br" target="_blank">LNCC</a>, se olhar para o lado profissional pensando que assim  teria mais oportunidade de trabalho. Porém, tenho também uma força que  puxa para continuar meus estudos sobre Redes Complexas no INPE.</p>
+        </div>
+    </section>
 
-            <div>
-                Credits text.
+
+    <!-- Footer ----------------------------------------------------------- -->
+    <section class="footer-bg">
+        <footer class="footer container">
+            <div class="insta text-color-c5">
+                <a href="https://www.instagram.com/brenddonandrade/" target="_blank"><i class="fa-brands fa-square-instagram fa-3x"></i></a>
+            </div>
+            <div class="twitter text-color-c5">
+                <a href="https://twitter.com/brenddonandrade" target="_blank"><i class="fa-brands fa-square-twitter fa-3x"></i></a>
+            </div>
+            <div class="github text-color-c5">
+                <a href="https://github.com/brenddonandrade" target="_blank"><i class="fa-brands fa-square-github fa-3x"></i></a>
+            </div>
+            <div class="cv-lattes text-color-c0 font-1-xl">
+                <a href="https://lattes.cnpq.br/5141456423899140" target="_blank">CV Lattes</a>
             </div>
         </footer>
+    </section>  
 
-        
-    </section>
-
-
-    <!-- Home --------------------------------------------------------- -->
-    <section class="home" id="home">
-        <h1>Home</h1>
-    </section>
-
-
-    <!-- Resume --------------------------------------------------------- -->
-
-    <section class="resume" id="resume">
-        <h1>Resume</h1>
-    </section>
-
-
-    <!-- Publications--------------------------------------------------------- -->
-
-    <section class="publications" id="publications">
-        <h1>Publications</h1>
-    </section>
-
-
-    <!-- Home--------------------------------------------------------- -->
-
-    <scection class="resources" id="resources">
-        <h1>Resources</h1>
-    </scection>
-
-    <script src="./js/main.js"></script>
+    <!-- <script src="./js/main.js"></script> -->
+    <script type="module" src="./js/script.js"></script>
 </body>
 </html>

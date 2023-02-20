@@ -1,0 +1,78 @@
+body,
+a,
+ul,
+li,
+h1,
+h2,
+p, * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header-bg,
+.apresentacao-bg,
+.footer-bg,
+.content-bg,
+.trajetoria,
+.almejos {
+  margin-bottom: 32px;
+}
+
+.apresentacao-content,
+.trajetoria-content,
+.iniciacao-content,
+.publicacoes-content,
+.projetos-content,
+.notas-content,
+.contato-content,
+.almejos-content {
+    max-width: 75ch;
+    padding: 16px 16px 0 16px;
+    background-color: var(--cor-c1);
+    border-radius: 4px;
+}
+
+
+
+
+.apresentacao-content p,
+.trajetoria-content p,
+.iniciacao-content p,
+.publicacoes-content p,
+.projetos-content p,
+.notas-content p,
+.almejos-content p  {
+    text-align: justify;
+    margin-bottom: 16px;
+}
+
+p > a {
+  padding: 0;
+  font-weight: 700;
+}
+
+p > a:hover{
+  text-decoration: underline;
+}
+
+
+body {
+  background-color: var(--cor-c0);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+ul {
+  list-style-type: none;
+}
+
+
+a {
+  display: inline-block;
+  padding: 10px 0;
+  text-decoration: none;
+  color: inherit;
+}

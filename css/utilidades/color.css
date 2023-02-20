@@ -1,0 +1,33 @@
+:root {
+    --cor-c6: #eee;
+    --cor-c5: #ccc;
+    --cor-c4: #aaa;
+    --cor-c3: #888;
+    --cor-c2: #666;
+    --cor-c1: #444;
+    --cor-c0: #222;
+}
+
+.text-color-c6{
+    color: var(--cor-c6);
+}
+
+.text-color-c5{
+    color: var(--cor-c5);
+}
+
+.text-color-c4{
+    color: var(--cor-c4);
+}
+
+.text-color-c3{
+    color: var(--cor-c3);
+}
+
+.text-color-c2{
+    color: var(--cor-c2);
+}
+
+.text-color-c1{
+    color: var(--cor-c1);
+}

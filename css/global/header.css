@@ -1,0 +1,43 @@
+.header-bg{
+    background-color: var(--cor-c0);
+    padding: 16px 0 ;
+}
+.menu {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-family: var(--font-title);
+}
+
+.menu a {
+    padding: 8px 16px;
+    display: inline-block;
+}
+
+.menu li + li {
+    border-left: 2px solid var(--cor-c6);
+}
+
+
+
+
+
+
+.menu li::after {
+    content: "";
+    display: block;
+    width: 0;
+    height: 2px;
+    background-color: var(--cor-c6);
+    transition: all .3s ease;
+}
+
+.menu li:hover::after {
+    width: 100%;
+}
+
+@media(max-width: 400px){
+    .menu {
+        display: grid;
+    }
+}
