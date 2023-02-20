@@ -1,8 +1,7 @@
 ## Olá! Me chamo Brendodn Andrade 🧑‍💻
 
-- 🎓 Sou um estudante de Física pela UFF (Universidade Federal Fluminence);
-- ⚛️ Faço parte do grupo de pesquisa do INPE como estudante de Iniciação Científica, no qual pesquiso sobre Redes Complexas;
-
+- 🎓 I'm Physics student at UFF (Universidade Federal Fluminense);
+- ⚛️ I'm part of the INPE (Instituto Nacional de Pesquisas Espaciais) research group as a scientific initiation student, in which I research Complex Networks;
 
  <div>
   <a href="https://github.com/brenddonerick">
