@@ -1,4 +1,4 @@
-## Olá! Me chamo Brendodn Andrade 🧑‍💻
+## Hello! My name is Brendon Andrade 🧑‍💻
 
 - 🎓 I'm Physics student at UFF (Universidade Federal Fluminense);
 - ⚛️ I'm part of the INPE (Instituto Nacional de Pesquisas Espaciais) research group as a scientific initiation student, in which I research Complex Networks;
