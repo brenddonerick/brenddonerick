@@ -1,7 +1,7 @@
 ## Hello! My name is Brendon Andrade 🧑‍💻
 
-- 🎓 I'm Physics student at UFF (Universidade Federal Fluminense);
-- ⚛️ I'm part of the INPE (Instituto Nacional de Pesquisas Espaciais) research group as a scientific initiation student, in which I research Complex Networks;
+I have a degree in Physics with an emphasis on Computational Physics from Universidade Federal Fluminense (UFF). I am currently a master's student in Physics at UFF, where I study time series and complex systems using data from the financial market. I was a two-year scholarship holder at the National Institute for Space Research (INPE), in the scientific initiation modality, working in the area of ​​complex networks with a project entitled "Analysis of transport and circulation networks in the context of sustainable strategies for regional development at the metropolitan scale". In addition, I was responsible for the CORPSE (Computational Research Programming and Science Environment) laboratory, used for development and research by students and researchers of the ADACA project. I am interested in Statistical Physics, Complex Systems, Complex Networks, Cybersecurity, Computer Architectures, HPC and Generative AI.
+
 
  <div>
   <a href="https://github.com/brenddonerick">
